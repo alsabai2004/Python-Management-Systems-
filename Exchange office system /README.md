@@ -52,7 +52,7 @@
 
 ```
 /
-├── exchange_system.py       # الملف الرئيسي للتطبيق
+├── Exchange-office-system.py       # الملف الرئيسي للتطبيق
 ├── exchange.txt             # ملف تخزين العمليات
 └── README.md               # هذا الملف
 ```
@@ -282,7 +282,7 @@ class LocalTransfer(Service):
 
 2. **تشغيل البرنامج**:
    ```bash
-   python exchange_system.py
+   python Exchange-office-system.py
    ```
 
 3. **بدء الاستخدام**:
@@ -414,7 +414,7 @@ office = ExchangeOffice(filename="my_data.txt")
 
 ## 👨‍💻 المطور
 
-**Mohammed Najeeb Alsabai**
+**Eng\ Mohammed Najeeb Alsabai**
 
 ---
 
