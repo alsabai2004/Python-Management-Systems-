@@ -63,7 +63,7 @@
 
 ```
 /
-├── restaurant-management-system.py       # الملف الرئيسي للتطبيق
+├── Restaurant-management-system.py       # الملف الرئيسي للتطبيق
 ├── meals.txt                  # ملف تخزين الوجبات
 ├── drinks.txt                 # ملف تخزين المشروبات
 ├── desserts.txt               # ملف تخزين الحلويات
@@ -203,7 +203,7 @@
 
 2. **تشغيل البرنامج**:
    ```bash
-   python restaurant-management-system.py
+   python Restaurant-management-system.py
    ```
 
 3. **بدء الاستخدام**:
