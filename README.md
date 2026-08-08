@@ -170,7 +170,7 @@ Python-Management-Systems/
 
 1. **استنساخ المستودع**:
    ```bash
-   git clone https://github.com/your-username/Python-Management-Systems.git
+   git clone https://github.com/alsabai2004/Python-Management-Systems.git
    cd Python-Management-Systems
 ```
 
@@ -180,7 +180,7 @@ Python-Management-Systems/
    ```
 3. تشغيل النظام:
    ```bash
-   python bank_system.py
+   python Bank-Management-System.py
    ```
 4. اتباع التعليمات:
    اتبع التعليمات الظاهرة على الشاشة للتفاعل مع النظام.
@@ -193,7 +193,7 @@ Python-Management-Systems/
 
 ```bash
 cd "Bank Management System"
-python bank_system.py
+python Bank-Management-System.py
 # استخدم: admin / 1234
 ```
 
@@ -201,7 +201,7 @@ python bank_system.py
 
 ```bash
 cd "Clinic Management System"
-python clinic_system.py
+python Clinic-Management-System.py
 # اختر الواجهة: 1-سكرتير، 2-طبيب، 3-صيدلي
 ```
 
@@ -209,7 +209,7 @@ python clinic_system.py
 
 ```bash
 cd "Exchange Office System"
-python exchange_system.py
+python Exchange-Office-System.py
 # اختر العملية المطلوبة من القائمة
 ```
 
@@ -217,7 +217,7 @@ python exchange_system.py
 
 ```bash
 cd "Library Management System"
-python library_system.py
+python Library-management-system.py
 # اختر العملية المطلوبة من القائمة
 ```
 
@@ -225,7 +225,7 @@ python library_system.py
 
 ```bash
 cd "Mall Management System"
-python mall_system.py
+python Mall-Management-System.py
 # اختر العملية المطلوبة من القائمة
 ```
 
@@ -233,7 +233,7 @@ python mall_system.py
 
 ```bash
 cd "Restaurant Management System"
-python restaurant_system.py
+python Restaurant-management-system.py
 # اختر العملية المطلوبة من القائمة
 ```
 
