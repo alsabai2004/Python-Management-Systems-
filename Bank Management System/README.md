@@ -57,7 +57,7 @@
 ```
 
 /
-├── bank_system.py       # الملف الرئيسي للتطبيق
+├── Bank-Management-System.py       # الملف الرئيسي للتطبيق
 ├── accounts.txt         # ملف تخزين بيانات الحسابات (JSON)
 └── README.md           # هذا الملف
 
