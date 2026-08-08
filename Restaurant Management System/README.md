@@ -63,7 +63,7 @@
 
 ```
 /
-├── restaurant_system.py       # الملف الرئيسي للتطبيق
+├── restaurant-management-system.py       # الملف الرئيسي للتطبيق
 ├── meals.txt                  # ملف تخزين الوجبات
 ├── drinks.txt                 # ملف تخزين المشروبات
 ├── desserts.txt               # ملف تخزين الحلويات
@@ -203,7 +203,7 @@
 
 2. **تشغيل البرنامج**:
    ```bash
-   python restaurant_system.py
+   python restaurant-management-system.py
    ```
 
 3. **بدء الاستخدام**:
@@ -337,7 +337,7 @@ def save_meals():
 
 ## 👨‍💻 المطور
 
-**Mohammed Najeeb Alsabai**
+**Eng\ Mohammed Najeeb Alsabai**
 
 ---
 
