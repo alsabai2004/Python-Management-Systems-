@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Python Management Systems Collection
 
 مجموعة متكاملة من أنظمة الإدارة المبنية بلغة Python، تغطي مجالات متعددة مثل البنوك، العيادات، الصرافة، المكتبات، المراكز التجارية، والمطاعم. تم تطوير كل نظام باستخدام أفضل ممارسات البرمجة الكائنية (OOP) مع التركيز على سهولة الاستخدام والتوسع.
@@ -136,42 +135,24 @@
 
 Python-Management-Systems/
 │
-
 ├── Bank Management System/
-
 │   └── bank_system.py
 │
-
-
 ├── Clinic Management System/
 │   └── clinic_system.py
 │
-
-
 ├── Exchange Office System/
-
 │   └── exchange_system.py
 │
-
-
 ├── Library Management System/
-
 │   └── library_system.py
 │
-
-
 ├── Mall Management System/
-
 │   └── mall_system.py
 │
-
-
 ├── Restaurant Management System/
-
 │   └── restaurant_system.py
 │
-
-
 └── README.md
 
 ```
