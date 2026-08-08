@@ -55,7 +55,7 @@
 ```
 
 /
-├── clinic_system.py       # الملف الرئيسي للتطبيق
+├── Clinic-Management-System.py       # الملف الرئيسي للتطبيق
 ├── clinic_data.txt        # ملف تخزين بيانات المرضى (JSON)
 └── README.md             # هذا الملف
 
@@ -310,10 +310,10 @@ New condition: so so
 الخطوات
 
 1. نسخ الكود:
-   قم بنسخ الكود إلى ملف جديد باسم clinic_system.py.
+   قم بنسخ الكود إلى ملف جديد باسم Clinic-Management-System.py.
 2. تشغيل البرنامج:
    ```bash
-   python clinic_system.py
+   python Clinic-Management-System.py
    ```
 3. بدء الاستخدام:
    · اختر رقم الواجهة المناسبة من القائمة الرئيسية.
@@ -363,7 +363,7 @@ FILENAME = "clinic_data.txt"  # قم بتغيير هذا الاسم
 
 👨‍💻 المطور
 
-Mohammed Najeeb Alsabai
+Eng\ Mohammed Najeeb Alsabai
 
 ---
 
