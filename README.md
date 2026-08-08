@@ -136,24 +136,42 @@
 
 Python-Management-Systems/
 │
+
 ├── Bank Management System/
+
 │   └── bank_system.py
 │
+
+
 ├── Clinic Management System/
 │   └── clinic_system.py
 │
+
+
 ├── Exchange Office System/
+
 │   └── exchange_system.py
 │
+
+
 ├── Library Management System/
+
 │   └── library_system.py
 │
+
+
 ├── Mall Management System/
+
 │   └── mall_system.py
 │
+
+
 ├── Restaurant Management System/
+
 │   └── restaurant_system.py
 │
+
+
 └── README.md
 
 ```
