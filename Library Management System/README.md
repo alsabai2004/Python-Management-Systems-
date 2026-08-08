@@ -52,7 +52,7 @@
 
 ```
 /
-├── library_system.py       # الملف الرئيسي للتطبيق
+├── Library-management-system.py       # الملف الرئيسي للتطبيق
 └── README.md              # هذا الملف
 ```
 
@@ -220,7 +220,7 @@ class Book:
 
 2. **تشغيل البرنامج**:
    ```bash
-   python library_system.py
+   python Library-management-system.py
    ```
 
 3. **بدء الاستخدام**:
@@ -341,7 +341,7 @@ def load_books(self):
 
 ## 👨‍💻 المطور
 
-**Mohammed Najeeb Alsabai**
+**Eng\ Mohammed Najeeb Alsabai**
 
 ---
 
