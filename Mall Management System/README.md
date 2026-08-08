@@ -68,7 +68,7 @@
 
 ```
 /
-├── mall_system.py          # الملف الرئيسي للتطبيق
+├── Mall-Management-System.py          # الملف الرئيسي للتطبيق
 └── README.md              # هذا الملف
 ```
 
@@ -328,7 +328,7 @@ ID     المنتج              السعر      الكمية
 
 2. **تشغيل البرنامج**:
    ```bash
-   python mall_system.py
+   python Mall-Management-System.py
    ```
 
 3. **بدء الاستخدام**:
